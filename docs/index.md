@@ -1,10 +1,6 @@
-## Java学习笔记
+## 学习笔记
 
-### 集合
-
-1. [HashMap](https://wuwuwupx.github.io/docs/HashMap)
-2. HashSet
-3. ArrayList
+### [Java学习笔记](https://wuwuwupx.github.io/docs/java)
 
 
 
