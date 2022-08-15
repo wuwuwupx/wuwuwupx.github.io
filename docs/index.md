@@ -2,14 +2,7 @@
 
 ### 集合
 
-1. HashMap
-    ```java
-    class Test {
-        public static void main(String[]args){
-            Map<String, String> map = new HashMap();
-        }
-    }
-    ```
+1. [HashMap](https://wuwuwupx.github.io/docs/HashMap)
 2. HashSet
 3. ArrayList
 
