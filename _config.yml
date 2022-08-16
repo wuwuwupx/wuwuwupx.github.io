@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-# 文件: _config.yml
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
